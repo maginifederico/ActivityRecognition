@@ -12,3 +12,7 @@ Per scaricare il Dataset è necessario scaricare la cartella "UCI HAR Dataset.na
 
 Una volta effettuato il download sarà visibile una cartella chiamata UCI HAR Dataset, che contiene due sottocartelle: "_ MACOSX" e "UCI HAR Dataset".
 E' necessario prendere la sottocartella "UCI HAR Dataset" e posizionarla nella stessa cartella dove viene posizionato il codice AR_RandomForest.py
+
+## Esecuzione del codice
+Una volta effettuato il Download del Dataset e delle librerie, il codice è pronto per essere eseguito. Non vengono chiesti input all'utente.
+Il programma elabora i dati presenti nel Dataset, ne stampa il contenuto, costruisce e stampa la matrice di confusione e ulteriori informazioni di classificazione.
